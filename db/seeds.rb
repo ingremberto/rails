@@ -5,4 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Localidad.create([{name:"19"}, {name: "20"}])
+#Beneficiario.create([{nombre:"pedro",apellido:"aquiles",edad:"12",sexo:"Femenino"}, {nombre:"reina",apellido:"quirox",edad:"23",sexo:"Femenino"}])
+
+Programa.create([{nombre:"madres cabeza hogar"}, {nombre:"adictos"}])
